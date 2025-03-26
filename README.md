@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello!
 
-<!--
-**Raphaelwfe/Raphaelwfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raphael Barcelos, a Computer Science student from Brazil.
 
-Here are some ideas to get you started:
+- 🔭 I’m searching for an opportunity to start my professional career
+- ❤️ I love to study Intersection of Data and Software Engineering
+- 🌱 I’m current learning Java Spring Boot
+- 👯 I’m looking to collaborate and become more active in the community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗Connect with me
+<div> 
+  <a href = "mailto:raphaelwfe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphael-barcelos-b99a11303" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## ⚡Stack
+
+• Software Engineering: Spring, JPA and Spring Data, Messaging
